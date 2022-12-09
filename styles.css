@@ -199,7 +199,6 @@ p {
     
     #logo {
         height: 50px; 
-        margin-left: 0;
     }
 
     .showcase {
@@ -216,13 +215,11 @@ p {
         grid-column: 1;
         grid-row: 2 / 4; 
         width: 70%;
-        margin-left: 0;
     }
 
     h1 {
         font-size: 80px;
         text-align: left;
-        margin-left: 0;
     }
 
     p {
